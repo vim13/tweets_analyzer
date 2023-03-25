@@ -12,9 +12,10 @@ There are plenty of things that could be added to the script, feel free to contr
 
 ### Installation
 
-⚠ First, update your API keys in the *secrets.py* file. To get API keys go to https://apps.twitter.com/
+⚠ First, update your API keys in the *secrets_twitter.py* file. To get API keys go to https://apps.twitter.com/
 
 Python v2.7 or newer is required
+#I made it compatible with Python 3.10.
 
 You will need the following python packages installed: tweepy, ascii_graph, tqdm, numpy
 
